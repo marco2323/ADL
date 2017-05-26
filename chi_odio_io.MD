@@ -28,6 +28,7 @@ Il giovane rivoluzionario non essendo stato incenerito seduta stante, pubblicher
 
 Notoriamente, quel giovane socialista rivoluzionario è Mussolini, il futuro "Uomo della Provvidenza" e duce del fascismo. Scrive: «Con questo opuscolo la Biblioteca Internazionale di Propaganda Razionalista inizia le sue pubblicazioni, fiduciosa d'incontrare le simpatie dell'elemento operaio e lieta di contribuire colla sua opera al movimento generale d'emancipazione umana. (…) Davanti all'espandersi del libero pensiero, Papa Sarto – trepido delle sorti del suo dominio – grida: "Fedeli, l'Anticristo è nato!". L'Anticristo è la Ragione umana che si ribella al dogma e abbatte Dio.»
 
+
 <>
 
 Mi viene in mente ora un'altra disputa sull'Anticristo tra un giovane socialista italiano in Svizzera e un pastore evangelico. Essa ebbe luogo tra chi scrive e Hans-Jürg Braun, pastore evangelico oltre che docente presso l’Università di Zurigo.
@@ -53,7 +54,8 @@ Chi ha vissuto concretamente l’ottusità di un apparato real-socialista – co
 Non vorrei concludere queste prime considerazioni per il 2013 senz'aver riportato il Coro che Franco Fortini pubblicò su L’Avvenire dei lavoratori del 15 aprile 1944. In esso spicca con grande intensità il sentimento dell'odio. Si tratta del testo in cui la Shoah lascia per la prima volta un'impronta sulla lingua della letteratura italiana.
 
 
-Coro di deportati
+**_Coro di deportati_**
+
 
 
 Quando il ghiaccio striderà
@@ -66,7 +68,8 @@ nelle pozze delle carraie
 
 globi barbari di primavera
 
-noi saremo lontani.
+noi saremo lontani.  
+
 
 
 Vorremmo tornare e guardare,
@@ -79,7 +82,8 @@ piangere di pietà
 
 dove passò nostra madre:
 
-invece saremo lontani.
+invece saremo lontani.  
+
 
 
 Invece noi prigionieri
@@ -92,7 +96,8 @@ dei coltelli s'impugnano.
 
 Maledetto chi ci conduce
 
-lontano, sempre lontano.
+lontano, sempre lontano.  
+
 
 
 E quando saremo tornati
@@ -105,7 +110,8 @@ Le rughe sopra le mani,
 
 la ruggine sopra i badili:
 
-e ancora saremo lontani.
+e ancora saremo lontani.  
+
 
 
 Saremo ancora lontani
@@ -118,7 +124,8 @@ Ma verranno nuove le mani
 
 come vengono nuove le foglie
 
-ora ai nostri campi lontani.
+ora ai nostri campi lontani.  
+
 
 
 Ma la gemma s'aprirà,
@@ -131,7 +138,8 @@ nostro antico cuore umano,
 
 scheggia cruda, legge nuda,
 
-all'occhio del cielo lontano.
+all'occhio del cielo lontano.  
+
 
 
 [24.1.2013]
