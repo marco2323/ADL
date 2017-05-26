@@ -1,7 +1,7 @@
-# Nuovo  Accecamenti e cecità
+# Nuovo  Accecamenti e cecità  
 ## Editoriale di Andrea Ermano 
-### giovedì 29 gennaio 2015
-
+### giovedì, 29 gennaio 2015
+---
 Non l'hanno presa niente bene lassù, nel profondo nord. Ma ormai il premier greco è quello. E chissà cosa succederà adesso. Per dovere di cronaca, vale la pena tenere presente che la prognosi di George Soros suona, da tempo, così: o la Germania accetterà di mutualizzare parte consistente del debito pubblico europeo, inverando in tal modo la propria leadership continentale e compiendo un passo avanti verso gli Stati Uniti d'Europa, oppure potrebbe toccare proprio alla Repubblica Federale, alla fine, di dover uscire dal club della moneta unica.
 
 Anche Helmut Schmidt e Joschka Fischer glielo dicono ormai da anni, ai loro connazionali, che meglio sarebbe per Berlino evitare di confliggere con l'Europa, "per la terza volta in un secolo".
