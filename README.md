@@ -21,5 +21,5 @@
 | Gli Editoriali        | del           | Direttore  |
 | ------------- |:-------------:| -----:|
 | [Accecamenti e cecità]( ADL/Accecamenti_e_cecita.MD ) |  [Come evitare lo Scatenamento](ADL/Come_evitare_lo_Scatenamento.MD ) |[Il nostro noi diviso]( ADL/il_nostro_noi_diviso.MD )|
-| [Va' tranquillo, Dunque]( ADL/Va_tranquillo_dunque.MD )|[Cara bambina di Pomigliano d'Arco]( ADL/Cara_bambina_di_Pomigliano.MD )|   $12 |
+| [Va' tranquillo, Dunque]( ADL/Va_tranquillo_dunque.MD )|[Cara bambina di Pomigliano d'Arco]( ADL/Cara_bambina_di_Pomigliano.MD )|[Dieci piccole Epsilon]( ADL/Dieci_piccole_epsilon.MD )|
 |  [Mezzo seminario sul populismo](ADL/Mezzo_seminario_sul_populismo.MD ) |[Un po'oltre questa fase]( ADL/un_po_oltre_questa_fase.MD )|    $1 |
