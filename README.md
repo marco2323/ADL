@@ -15,4 +15,9 @@
 <p align="center">PDF scaricabile <a href="HTTP://ISSUU.COM/AVVENIRELAVORATORI">qui</a></p>
 
 
----
+------------------
+
+   Gli Editoriali del Direttore:
+   - [Accecamenti e cecità]( ADL/Accecamenti_e_cecita.MD )
+   - [Va' tranquillo, Dunque]( ADL/Va_tranquillo_dunque.MD )
+   
