@@ -10,9 +10,10 @@
 
 <p align="center">
   <strong>SEDE: SOCIETÀ COOPERATIVA ITALIANA - CASELLA 8965 - CH 8036 ZURIGO - DIRETTORE: ANDREA ERMANO   </strong>
-</p>Per DISDIRE / UNSUBSCRIBE / E-MAIL A  unsubscribe_adl@vtxmail.ch . Per ISCRIVERVI inviateci P.F. il testo: "INCLUDIMI" a  ADL Edizioni. In caso di trasmissioni doppie inviateci P.F. il testo: "DOPPIO" a  ADLEdizioni  
+</p>
+<p align="center">Per DISDIRE / UNSUBSCRIBE / E-MAIL A  unsubscribe_adl@vtxmail.ch . Per ISCRIVERVI inviateci P.F. il testo: "INCLUDIMI" a  ADL Edizioni. In caso di trasmissioni doppie inviateci P.F. il testo: "DOPPIO" a  ADLEdizioni</p>  
 
-<p align="center">PDF scaricabile <a href="HTTP://ISSUU.COM/AVVENIRELAVORATORI">qui</a></p>
+<p align="center"> I PDF dal 2015 ad oggi sono scaricabili <a href="HTTP://ISSUU.COM/AVVENIRELAVORATORI">qui</a></p>
 
 
 ------------------
