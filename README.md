@@ -17,7 +17,9 @@
 
 ------------------
 
-   Gli Editoriali del Direttore:
-   - [Accecamenti e cecità]( ADL/Accecamenti_e_cecita.MD )
-   - [Va' tranquillo, Dunque]( ADL/Va_tranquillo_dunque.MD )
-   
+
+| Gli Editoriali        | del           | Direttore  |
+| ------------- |:-------------:| -----:|
+| [Accecamenti e cecità]( ADL/Accecamenti_e_cecita.MD ) | right-aligned | $1600 |
+| [Va' tranquillo, Dunque]( ADL/Va_tranquillo_dunque.MD )| centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
