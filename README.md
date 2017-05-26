@@ -20,6 +20,6 @@
 
 | Gli Editoriali        | del           | Direttore  |
 | ------------- |:-------------:| -----:|
-| [Accecamenti e cecità]( ADL/Accecamenti_e_cecita.MD ) | right-aligned | $1600 |
-| [Va' tranquillo, Dunque]( ADL/Va_tranquillo_dunque.MD )| centered      |   $12 |
+| [Accecamenti e cecità]( ADL/Accecamenti_e_cecita.MD ) |  [Come evitare lo Scatenamento](ADL/Come_evitare_lo_Scatenamento.MD ) | $1600 |
+| [Va' tranquillo, Dunque]( ADL/Va_tranquillo_dunque.MD )|[Cara bambina di Pomigliano d'Arco]( ADL/Cara_bambina_di_Pomigliano.MD )|   $12 |
 |  [Mezzo seminario sul populismo](ADL/Mezzo_seminario_sul_populismo.MD ) | are neat      |    $1 |
